@@ -1,9 +1,11 @@
 
-## Checklist is an efficient way for anyone to manage their task work effectively, with a clean and simple interface designed for 
+## Application Description
+Checklist is an efficient way for anyone to manage their task work effectively, with a clean and simple interface designed for 
 optimal user interaction. A user is able to define and add any text based task to a list that clearly outlines the needed tasks in 
 the order in which they were added. Additionally, a user is able to toggle whether a task has been completed or not, with a correspondingly understandable change in visuals for the task list. A user is also able to delete any unwanted tasks within list. Finally, the application allows the user to traverse multiple pages that were implemented using react-router (about - description of the application and the devoloper, login - allows the user to form a checklist handle (username) that opens up the ability to edit the text on tasks and profile - details the users handle information) and most importantly, the users data is persisted across the local storage for the webpage, allowing the user to reload, close/reopen, etc the application and still maintain the needed data to remake their custom checklist.
 
-# To view the working application, please visit the following url: https://vercel.com/staringatnebulas-gmailcom/checklist.
+### Deployed application link: 
+https://vercel.com/staringatnebulas-gmailcom/checklist.
 
 
 
