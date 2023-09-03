@@ -5,7 +5,7 @@ optimal user interaction. A user is able to define and add any text based task t
 the order in which they were added. Additionally, a user is able to toggle whether a task has been completed or not, with a correspondingly understandable change in visuals for the task list. A user is also able to delete any unwanted tasks within list. Finally, the application allows the user to traverse multiple pages that were implemented using react-router (about - description of the application and the devoloper, login - allows the user to form a checklist handle (username) that opens up the ability to edit the text on tasks and profile - details the users handle information) and most importantly, the users data is persisted across the local storage for the webpage, allowing the user to reload, close/reopen, etc the application and still maintain the needed data to remake their custom checklist.
 
 ### Deployed application link: 
-https://vercel.com/staringatnebulas-gmailcom/checklist.
+https://checklist-rho-seven.vercel.app/
 
 
 
